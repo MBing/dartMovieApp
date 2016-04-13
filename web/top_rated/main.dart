@@ -4,12 +4,10 @@
 import 'dart:html';
 import '../lib/DataService.dart';
 
-void main() async {
-
+void main() {
+  querySelector('#output').text = 'Your Dart app is running.';
   DataService service = new TMDBService();
 
-  List movieList = await service.getNowPlayingMovies();
-  querySelector('#output').text = movieList.length.toString();
-
+  service.getTopRatedMovies();
 }
 
