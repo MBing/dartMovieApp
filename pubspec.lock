@@ -25,6 +25,12 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.15.2+7"
+  benchmark_harness:
+    description:
+      name: benchmark_harness
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.2"
   boolean_selector:
     description:
       name: boolean_selector
@@ -97,6 +103,12 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.1"
+  delegate:
+    description:
+      name: delegate
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.4"
   di:
     description:
       name: di
@@ -121,6 +133,12 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.12.2+1"
+  html5lib:
+    description:
+      name: html5lib
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.3.1+2"
   http:
     description:
       name: http
@@ -145,6 +163,12 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.12.7+1"
+  js:
+    description:
+      name: js
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.6.0"
   logging:
     description:
       name: logging
@@ -169,6 +193,12 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.17.3"
+  meta:
+    description:
+      name: meta
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.12.0"
   mime:
     description:
       name: mime
@@ -223,6 +253,12 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.6.2"
+  router:
+    description:
+      name: router
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.0"
   shelf:
     description:
       name: shelf
@@ -289,6 +325,12 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.2"
+  unittest:
+    description:
+      name: unittest
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.11.6+4"
   utf:
     description:
       name: utf
@@ -313,6 +355,12 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.2"
+  web_ui:
+    description:
+      name: web_ui
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.3.2"
   when:
     description:
       name: when
